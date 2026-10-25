@@ -63,6 +63,8 @@ A learning project to prepare a single-speaker dataset from personal voice recor
 
 **Current focus:** Audio preprocessing, audio-text alignment, and preparing data to adapt an open-source TTS model. The custom model and end-to-end integration are still in development.
 
+🔗 **Code (existing voice chatbot):** [View AI-voicebot repository](https://github.com/satwiknarwa/AI-voicebot) — this repository contains the existing Django-based speech-to-text → LLM → text-to-speech chatbot; the custom voice-training code is still in progress.
+
 ### 3. AI Voice Chatbot
 
 A Python/Django-based voice chatbot experiment using speech recognition, an LLM API for responses, and text-to-speech output.
